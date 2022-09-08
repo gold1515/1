@@ -20,7 +20,7 @@ const Component: React.FC = () => {
         alignItems="center"
         mx="auto"
       >
-        <Text textStyle="md">NFTDrop</Text>
+        <Text textStyle="md">Gold castle</Text>
         <Flex alignItems="center" gap={8}>
           <SnsLinks />
         </Flex>
